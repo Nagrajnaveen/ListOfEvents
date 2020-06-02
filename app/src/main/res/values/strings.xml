@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BookMyEvent</string>
+    <string name="popTv">Popular</string>
+    <string name="comedy">Comedy</string>
+    <string name="dig_ev_grp">Digital Event Groups</string>
+    <string name="feat_list">Featured Events</string>
+    <string name="view_all">ViewAll</string>
+    <string name="desc_tit">${count} Comedy events in Bangalore ${time}. Explore &amp; buy tickets online</string>
+    <string name="eve_desc">Buy tickets to comedy events in Bangalore. Live shows by India\' s best comedians: Zakir Khan, Kanan Gill, Biswa, Azeem, Sapan, Kenny, Sumukhi, Varun Thakur, Aditi Mittal, EIC, Comicstaan finalists &amp; more: Stand-up shows, open mic events, sketch.</string>
+    <string name="bme">Book My Event</string>
+    <string name="ok">OK</string>
+    <string name="please_check_your_internet_settings">Please check your internet settings</string>
+    <string name="no_connection">No connection</string>
+</resources>
